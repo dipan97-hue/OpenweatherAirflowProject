@@ -21,6 +21,7 @@ To display the diagram saved as a PNG file in your markdown, you can use the fol
 **2.AWS EC2 Instance:**
 
 **Compute Resource:** An EC2 instance is launched to host your Apache Airflow setup. This instance is where the ETL process is orchestrated.
+
 **3.Apache Airflow on EC2:**
 
 **Orchestration Tool:** Airflow, running on the EC2 instance, is responsible for managing the workflow of the ETL pipeline. It schedules and coordinates tasks, ensuring that data is extracted, transformed, and loaded in the correct sequence.
