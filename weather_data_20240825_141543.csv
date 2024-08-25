@@ -1,0 +1,2 @@
+city,weather_description,temperature,feels_like_temperature(C),max_temperature(C),min_temperature(C),humidity,pressure,wind_speed,wind_direction,cloudiness,wind_gust,visibility,sunrise(Local Time),sunset(Local Time)
+Zocca,scattered clouds,32.97000000000003,31.689999999999998,32.97000000000003,32.97000000000003,28,1017,3.29,35,37,1.99,10000,2024-08-25 06:31:13,2024-08-25 20:05:19
